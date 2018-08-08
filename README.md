@@ -13,8 +13,8 @@ https://www.baeldung.com/guava-bloom-filter
 
 #### Vavr
 
-Vavr is functional library for java, which provides null check, immutable object collections, tuples and more
-This project demo's the use of Option class from vavr for null check 
+Vavr is functional library for java, which provides null check, immutable object collections, tuples and more.
+This project demo uses the Option class from vavr, for null check 
 
 For more details
 
