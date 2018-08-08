@@ -3,7 +3,7 @@
 #### Bloom Filter
 
 Bloom filter is a probablistic data structure, which may produce false positives and never produces false negatives. 
-Bloom filter uses less space to store more values with n number of hash functions, it trades accuracy for space.
+Bloom filter uses less space to store more values with n number of hash functions.It trades accuracy for space.
 It is normally used for entry check to determine whether the given value/info possibily in the database.
 This project uses google's guava library collections.
 
