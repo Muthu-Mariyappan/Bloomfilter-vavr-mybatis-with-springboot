@@ -32,7 +32,7 @@ https://www.tutorialspoint.com/mybatis/index.htm
 -------------------------------------------
 1. Find game by id
 
-	> http://localhost:8080/Games/findByID/1
+	> http://localhost:8080/Games/findById/1
 
 
 2. Find game by name
